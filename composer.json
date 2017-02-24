@@ -5,6 +5,7 @@
 	"license": "MIT",
 	"type": "project",
 	"require": {
+		"php": "<=5.4.31",
 		"laravel/framework": "5.0.*"
 	},
 	"require-dev": {
